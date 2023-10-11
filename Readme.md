@@ -20,9 +20,6 @@
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
 - [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 - [Author](#author)
 
 ## Overview
@@ -48,7 +45,7 @@ The Interactive Love Test Web Application is a fun and engaging way to ask someo
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/love-test-app.git
+   git clone https://github.com/arnab-4/Crush.git
    ```
 
 2. Open the `index.html` file in a web browser to start the application.
@@ -68,31 +65,16 @@ const textConfig = {
 };
 ```
 
-## Contributing
 
-If you'd like to contribute to this project, please follow these steps:
 
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`
-3. Commit your changes: `git commit -m 'Add new feature'`
-4. Push your changes to your fork: `git push origin feature-name`
-5. Create a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Special thanks to [SweetAlert2](https://sweetalert2.github.io/) for the beautiful pop-up messages.
 
 ## Author
 
-- [Your Name](https://github.com/your-username)
+- [Your Name](https://github.com/arnab-4)
 
 Feel free to replace "Your Name" and "your-username" with your own information.
 
-Enjoy sharing the love and happy coding!
+Enjoy sharing the love and happy coding!🚀
 ```
 
 This enhanced `README.md` includes improved headings, a centered image, more organized sections, and various visual enhancements.
